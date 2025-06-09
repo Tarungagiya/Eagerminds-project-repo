@@ -54,7 +54,7 @@ Key files:
 ## How to Deploy (Manual)
 
 ### 1. Clone and Enter Project
-git clone https://github.com/your-username/Eagerminds-project-repo.git
+git clone https://github.com/Tarungagiya/Eagerminds-project-repo.git
 cd Eagerminds-project-repo/Eagerminds-project/terraform
 
 **Set Up AWS Credentials**: aws configure (command)
@@ -65,7 +65,8 @@ cd Eagerminds-project-repo/Eagerminds-project/terraform
 3. terraform apply
 
 **After successful deployment:**
+Wait for a minitues and hit the below URL...................
 http://<ALB-NAME>
 
 **Output**
-Hello it is Eagerminds project
+Hello it is Eagerminds project(If it is not shown output retry or refresh)
